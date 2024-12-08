@@ -31,9 +31,8 @@ I’m passionate about creating innovative solutions that make an impact! With e
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,django,mongodb,postgresql,tensorflow)](https://skillicons.dev)
 
 ### Other Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+[![My Skills](https://skillicons.dev/icons?i=docker,git,streamlit)](https://skillicons.dev)
+
 
 ---
 
