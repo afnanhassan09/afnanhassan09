@@ -27,14 +27,8 @@ I’m passionate about creating innovative solutions that make an impact! With e
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js)](https://skillicons.dev)
 
 
-### Frameworks & Tools  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frameworks & Tools 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,django,mongodb,postgresql,tensorflow)](https://skillicons.dev)
 
 ### Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
