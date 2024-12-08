@@ -27,7 +27,7 @@ I’m passionate about creating innovative solutions that make an impact! With e
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,django,mongodb,postgresql,tensorflow,docker,git,streamlit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c++,js)](https://skillicons.dev)
 
 
 ### Frameworks & Tools  
