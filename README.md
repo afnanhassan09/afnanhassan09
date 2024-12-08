@@ -42,8 +42,8 @@ I’m passionate about creating innovative solutions that make an impact! With e
 
 ## 📬 **Get in Touch**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/afnanhassan09/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/your-profile](https://www.instagram.com/afnan.09x/))
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:hassanafnan09@gmail.com)
 
 Let’s connect and create something impactful! 🚀
