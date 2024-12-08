@@ -38,8 +38,7 @@ I’m passionate about creating innovative solutions that make an impact! With e
 
 ## 📊 **GitHub Stats**  
 
-![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnan-hassan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-hassan&layout=compact&theme=radical)  
+[![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=afnanhassan09)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
