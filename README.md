@@ -24,7 +24,6 @@ I’m passionate about creating innovative solutions that make an impact! With e
 ## 🛠️ **Tech Stack**
 
 ### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,cs,java,js)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afnanhassan09)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frameworks & Tools 
@@ -39,6 +38,8 @@ I’m passionate about creating innovative solutions that make an impact! With e
 ## 📊 **GitHub Stats**  
 
 ![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=afnanhassan09&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
