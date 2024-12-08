@@ -35,10 +35,21 @@ I’m passionate about creating innovative solutions that make an impact! With e
 ## 📊 **GitHub Stats**  
 
 ![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=afnanhassan09&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
+### Connect with me:
+<a href="https://www.instagram.com/your-profile" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/medium-colored-instagram.svg" alt="Instagram" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/medium-colored-linkedin.svg" alt="LinkedIn" width="40" />
+</a>
+<a href="https://github.com/your-username" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/medium-colored-github.svg" alt="GitHub" width="40" />
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/medium-colored-gmail.svg" alt="Email" width="40" />
+</a>
 
 
 Let’s connect and create something impactful! 🚀
